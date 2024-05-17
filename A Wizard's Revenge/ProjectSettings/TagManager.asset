@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - KillPlane
+  - BounceBox
+  - AttackBox
+  - Spike
+  - HeartIcon
+  - GoldCoin
+  - IronCoin
+  - CoinText
+  - CrystalWandOrb
+  - PinkPig
+  - BlackBear
+  - smallSilverKey
+  - smallSilverKeyPickUp
+  - CircularSaw
+  - Cage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Inventory
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CrystalWandOrb
+    uniqueID: 2014572717
+    locked: 0
+  - name: Coin
+    uniqueID: 2009973031
+    locked: 0
+  - name: Saw
+    uniqueID: 2730205451
+    locked: 0
+  - name: Enemies
+    uniqueID: 3207404383
+    locked: 0
+  - name: Cover
+    uniqueID: 849974307
+    locked: 0
+  - name: Ground
+    uniqueID: 247974723
+    locked: 0
+  - name: Player
+    uniqueID: 4282831689
+    locked: 0
+  - name: Inventory
+    uniqueID: 2457543355
+    locked: 0
